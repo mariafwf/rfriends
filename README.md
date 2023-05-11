@@ -1,0 +1,7 @@
+## The One With The R Analysis
+
+Attracting millions of viewers worldwide, the sitcom Friends is renowned for its witty dialogue, memorable catchphrases, and distinct character personalities, and it has left its mark on popular culture. As a fan, I was inspired to conduct an analysis of the script data to gain insights into the linguistic patterns and emotional dynamics of this iconic sitcom.
+
+First, I wanted to extract some information about the distribution of lines throughout the show. Then, I aimed to identify the most frequently used words and phrases by the main characters of Friends. By examining word frequency, we can gain insights into the linguistic patterns and styles of each character, ranging from the sarcastic remarks of one character to the quirky idioms of another. Finally, I performed sentiment analysis to understand the emotional tones conveyed by different speakers. This also enabled me to explore how the sentiment of the show evolved throughout the seasons and how it varied among characters.
+
+This analysis is based on the CRAN package `friends`, a comprehensive package with multiple datasets that include a complete script transcript of all ten seasons of Friends and additional information.
